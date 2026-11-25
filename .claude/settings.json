@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:vbpl.vn)",
+      "WebFetch(domain:congbao.chinhphu.vn)",
+      "WebFetch(domain:chinhphu.vn)",
+      "WebFetch(domain:moc.gov.vn)",
+      "WebFetch(domain:thuvienphapluat.vn)"
+    ]
+  }
+}
